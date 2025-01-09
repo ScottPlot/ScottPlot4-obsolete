@@ -1,1 +1,0 @@
-See https://scottplot.net/changelog/ for a comprehensive changelog including all ScottPlot versions

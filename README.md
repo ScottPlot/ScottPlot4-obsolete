@@ -11,3 +11,5 @@ Issues and discussions are disabled for this repository, but comments are welcom
 * https://scottplot.net/discord/
 
 See https://scottplot.net/versions/ information about the latest version of ScottPlot and migration guides for upgrading legacy systems
+
+See https://scottplot.net/changelog/ for a comprehensive changelog documenting features for every version of ScottPlot
