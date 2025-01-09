@@ -1,1 +1,0 @@
-This package is not published on NuGet (yet?)
